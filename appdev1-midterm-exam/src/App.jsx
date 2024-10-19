@@ -113,7 +113,7 @@ function App() {
                             <h3 className="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Iced Mocha</h3>
                             <div className="text-white text-md sm:text-lg font-light">Small $10 . Large $15</div>
                         </div> 
-                        <img src="img/menu-item-8.jpg" alt="Image" className="rounded-md" />                   
+                        <img src="img/menu-item-8.jpg" alt="Image" className="rounded-md" />                    
                     </div>
                 </div>
             </div>
